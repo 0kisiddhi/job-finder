@@ -25,4 +25,6 @@ It allows users to browse IT, Business, Commerce, and Arts-related job listings,
 - **CSS3** – Styling and responsive design.
 - **JavaScript (ES6)** – Interactivity and dynamic job saving.
 
+<img width="1887" height="926" alt="Screenshot 2025-08-08 153340" src="https://github.com/user-attachments/assets/154a91e1-2656-4f16-b83e-b5c83f66bce7" />
+
 
